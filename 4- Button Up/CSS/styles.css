@@ -1,0 +1,43 @@
+*{
+    margin: 15px 20px;
+}
+
+.search{
+    font-size: 15px;
+    color: rgb(17, 155, 157);
+    border: 2px solid rgb(17, 155, 157);
+    border-radius: 50px;
+    padding: 4px;
+    display: block;
+    font-weight: 850;
+    width: 180px;
+    margin-top: 50px
+    ;
+}
+
+.plus{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    background-color:rgb(17, 155, 157) ;
+    border: 2px solid rgb(17, 155, 157);
+    border-radius: 50%;
+    padding: 0px;
+    display: block;
+    font-weight: 850;
+    width: 42px;
+    ;
+}
+
+.createacc{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(43, 120, 228);
+    border: 2px solid rgb(0, 0, 0);
+    padding: 7px;
+    display: block;
+    font-weight: 850;
+    width: 200px;
+    box-shadow: 5px 5px 5px black;
+    
+    ;
+}
